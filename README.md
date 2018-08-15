@@ -1,1 +1,1 @@
-# For-server-mustafa-game-over-gang-s
+worker: node bot.js
